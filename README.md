@@ -20,6 +20,7 @@ available CalPERS Investment Committee materials, including (but not limited to)
 - Liquidity management, rebalancing, and private asset pacing concepts
 
 Example public reference:
+
 https://www.calpers.ca.gov/documents/202509-invest-agenda-item04c-01-a/
 
 https://www.calpers.ca.gov/documents/202509-invest-agenda-item05a-01-a/
