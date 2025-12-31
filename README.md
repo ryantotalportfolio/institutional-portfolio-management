@@ -21,7 +21,9 @@ available CalPERS Investment Committee materials, including (but not limited to)
 
 Example public reference:
 https://www.calpers.ca.gov/documents/202509-invest-agenda-item04c-01-a/
+
 https://www.calpers.ca.gov/documents/202509-invest-agenda-item05a-01-a/
+
 https://www.calpers.ca.gov/documents/202303-invest-item05c-01-a/
 
 All work in this repository uses mock or synthesized data and does not contain
